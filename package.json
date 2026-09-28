@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/weaveipv4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weave URLs and ipv4 query parts with stable normalization.",
+  "bin": {
+    "weaveipv4": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/weaveipv4.git"
+  },
+  "homepage": "https://theworker02.github.io/weaveipv4/",
+  "keywords": [
+    "weave",
+    "ipv4",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
